@@ -6,7 +6,9 @@ I am a passionate data enthusiast upskilling at HyperionDev Data Science bootcam
 
 ## 📜 Certifications
 * Career Essentials in Data Analysis, Microsoft and LinkedIn (05/2023)
+![Screenshot of my certificate](https://github.com/alirahemi1/alirahemi1/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.pdf)
 * Career Essentials in Software Development, Microsoft and LinkedIn (05/2023)
+![Screenshot of my certificate](https://github.com/alirahemi1/alirahemi1/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Software%20Development%20by%20Microsoft%20and%20LinkedIn.pdf)
 * Foundations: Data, Data, Everywhere, Google through Coursera (05/2023)
 
 ## 🎓 Education
