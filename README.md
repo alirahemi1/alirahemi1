@@ -32,6 +32,9 @@ I am a passionate data enthusiast upskilling at HyperionDev Data Science bootcam
 
 ## 📚 Projects
 * Data Science Salary Dashboard - An interactive dashboard on Tableau to showcase visualisation and Tableau skills.
+* Below is a sample screenshot of the first section. Please see Tableau Public to view the interactive dashboard.
+![Screenshot of my project](https://github.com/alirahemi1/alirahemi1/blob/main/Screenshot%202023-06-06%20at%2014.36.40.png
+)
 
 
 
