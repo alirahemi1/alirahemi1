@@ -1,6 +1,6 @@
 # Ali Rahemi
 
-## Data Professional | [LinkedIn](https://www.linkedin.com/in/alirahemi1/) | [GitHub](https://github.com/alirahemi1) | [HyperionDev Profile](https://www.hyperiondev.com/portfolio/151314/) | [Tableau Public](https://public.tableau.com/app/profile/ali.rahemi/viz/DataScienceSalaries_16855736832060/DS_Salary_Dasboard)
+## Data Professional | [MyCV](https://app.enhancv.com/share/76adefd9/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) | [LinkedIn](https://www.linkedin.com/in/alirahemi1/) | [HyperionDev Profile](https://www.hyperiondev.com/portfolio/151314/) | [Tableau Public](https://public.tableau.com/app/profile/ali.rahemi/viz/DataScienceSalaries_16855736832060/DS_Salary_Dasboard)
 
 I am a passionate data enthusiast upskilling at HyperionDev Data Science bootcamp. I am also working towards a Data Analytics Professional Certificate by Google via Coursera. My continuous learning is complimented by certifications in Data Analytics and Software Development by Microsoft via LinkedIn. I have honed my proficiency in Python, SQL, R, and data analysis through a blend of bootcamp coursework and self-directed projects, all available for viewing on GitHub. With these skills, I look forward to contributing to a data analyst role, utilizing data-driven strategies for innovative solutions and business advancement. I am inherently self-directed, disciplined, and exhibit a growth mindset that propels my passion for expanding my skill set.
 
@@ -10,15 +10,6 @@ I am a passionate data enthusiast upskilling at HyperionDev Data Science bootcam
 * [Foundations: Data, Data, Everywhere, Google via Coursera (05/2023)](https://www.coursera.org/account/accomplishments/certificate/F5D549GYK9VK)
 * [Ask Questions To Make Data Driven Decisions, Google via Coursera](https://www.coursera.org/account/accomplishments/certificate/TFKM22R8LSRH)
 
-## 🎓 Education
-* Data Science Fundamentals, HyperionDev Skills Bootcamp (03/2023 - Present)
-* Computer Science - First Year, Manchester Metropolitan University (09/2021 - 05/2022)
-* IT & Business Management, Tudor Grange Academy Kingshurst (08/2018 - 06/2020)
-
-## 👨‍💼 Experience
-* Data Science Skills Bootcamp, HyperionDev (03/2023 - Present)
-* Fraud Telephony Customer Service, NatWest Group (08/2022 - 02/2023)
-* Job Shadowing/Volunteer, Templetons LTD Accountants (05/2022 - 08/2022)
 
 ## 💻 Technical Skills
 * Data Analytics
@@ -41,5 +32,6 @@ I am a passionate data enthusiast upskilling at HyperionDev Data Science bootcam
 
 ## 📚 Projects
 * Data Science Salary Dashboard - An interactive dashboard on Tableau to showcase visualisation and Tableau skills.
+
 
 
